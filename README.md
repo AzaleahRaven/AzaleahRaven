@@ -13,4 +13,7 @@ Hey there! The name's Raven and I'm currently a college student in the Game Deve
 - UI Designing
 - Asset Making (Sprites, UI, World Design)
 
+# 🎮 Published Games
+- Fizzy Pop! https://haruna-karasu.itch.io/fizzy-pop
+
 ![Bottom Border](https://github.com/user-attachments/assets/b4ebecde-2dff-4ced-bffb-2864fa12bacc)
