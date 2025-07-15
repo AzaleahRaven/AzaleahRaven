@@ -14,6 +14,9 @@ Hey there! The name's Raven and I'm currently a college student in the Game Deve
 - Asset Making (Sprites, UI, World Design)
 
 # 🎮 Published Games
-- Fizzy Pop! https://haruna-karasu.itch.io/fizzy-pop
+- Fizzy Pop! https://hollow-hearts.itch.io/fizzy-pop
+- Mecha-Bun https://hollow-hearts.itch.io/mecha-bun
+- Onigiri Clash! https://hollow-hearts.itch.io/onigiri-clash
+- Rocket Bunny https://hollow-hearts.itch.io/rocket-bunny
 
 ![Bottom Border](https://github.com/user-attachments/assets/b4ebecde-2dff-4ced-bffb-2864fa12bacc)
